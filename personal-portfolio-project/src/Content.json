@@ -1,0 +1,69 @@
+{
+    "name": "Harun Radoncic",
+    "title": "Software Engineer",
+    "desc": "Harunrad0919@gmail.com | github.com/HarunRad0919 | linkedin.com/in/harun-radoncic",
+    "experience": [
+      {
+        "title": "Junior Full-Stack Developer at Element - MJH",
+        "date": "June 2025 - Present",
+        "desc": "Worked on developing web applications using React and Node.js. Collaborated with a team of engineers to implement new features and fix bugs."
+      },
+      {
+        "title": "Volunteer Developer at Islamic Center Bosniack",
+        "date": "January 2020 - Present",
+        "desc": "Assisted in the development of internal tools and applications. Gained experience in full-stack development and agile methodologies."
+      }
+    ],
+    "education": [
+      {
+        "title": "Bachelor's Degree in Computer Science",
+        "date": "2020 - 2024",
+        "desc": "University of Missouri - Kansas City (UMKC)"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Personal Portfolio Website",
+        "languages": "React, Tailwind CSS",
+        "date": "September 2025",
+        "desc": "Developed a personal portfolio website using React and Tailwind CSS to showcase my projects and skills."
+      },
+      {
+        "title": "Capstone Project - Commerce Bank Website",
+        "languages": "React, Tailwind CSS",
+        "date": "September 2025",
+        "desc": "Developed a redesigned version of Commerce Bank's website as part of my capstone project. Focused on improving user experience and responsiveness."
+      },
+      {
+        "title": "SOS Game",
+        "languages": "React, Tailwind CSS",
+        "date": "September 2025",
+        "desc": "Created a more complex version of tictactoe called SOS using React and Tailwind CSS. Implemented game logic and user interface."
+      },
+      {
+        "title": "Racket Parser",
+        "languages": "React, Tailwind CSS",
+        "date": "September 2025",
+        "desc": "Created a parser for the Racket programming language using React and Tailwind CSS. Implemented syntax highlighting and error detection."
+      },
+      {
+        "title": "Serverless Calorite Calculator",
+        "languages": "AWS Lambda, API Gateway, DynamoDB, C#, .NET Core",
+        "date": "Feburary 2025",
+        "desc": "Built a full-stack e-commerce platform using MERN stack. Implemented features like user authentication, product management, and payment integration."
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Git",
+      "Agile Methodologies"
+    ]
+  }
+  
