@@ -36,34 +36,39 @@
       },
       {
         "title": "SOS Game",
-        "languages": "React, Tailwind CSS",
+        "languages": "JavaScript, JUnit",
         "date": "September 2025",
-        "desc": "Created a more complex version of tictactoe called SOS using React and Tailwind CSS. Implemented game logic and user interface."
+        "desc": "Created a more complex version of tictactoe called SOS using JavaScript. Implemented game logic and user interface."
       },
       {
         "title": "Racket Parser",
-        "languages": "React, Tailwind CSS",
+        "languages": "Racket",
         "date": "September 2025",
-        "desc": "Created a parser for the Racket programming language using React and Tailwind CSS. Implemented syntax highlighting and error detection."
+        "desc": "Created a parser for the Racket programming language. Completed as part of a programming languages course."
       },
       {
         "title": "Serverless Calorite Calculator",
         "languages": "AWS Lambda, API Gateway, DynamoDB, C#, .NET Core",
         "date": "Feburary 2025",
-        "desc": "Built a full-stack e-commerce platform using MERN stack. Implemented features like user authentication, product management, and payment integration."
+        "desc": "Built a serverless calorie calculator application using AWS services. Implemented RESTful API endpoints and data storage."
       }
     ],
     "skills": [
       "JavaScript",
       "React",
       "Node.js",
-      "Express",
+      "C++",
       "MongoDB",
       "HTML",
       "CSS",
       "Tailwind CSS",
       "Git",
-      "Agile Methodologies"
+      "Agile Methodologies",
+      "AWS",
+      "Python",
+      "C#",
+      "Java",
+      "SQL"
     ]
   }
   
