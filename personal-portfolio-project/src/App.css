@@ -1,1 +1,17 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+/* 👇 put custom CSS after imports */
+@keyframes tagPulse {
+  0%,
+  100% {
+    opacity: 0.9;
+    filter: blur(1px) brightness(1);
+  }
+  50% {
+    opacity: 1;
+    filter: blur(1.5px) brightness(1.2);
+  }
+}
+.tag-pulse {
+  animation: tagPulse 3s infinite;
+}
